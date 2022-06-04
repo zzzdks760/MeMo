@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/Desktop/Application/app/src/main/res/menu/main_action_mode.xml" value="0.359375" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.21" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/drawable/ic_dark_theme.xml" value="0.21" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/drawable/ic_delete_black_24dp.xml" value="0.21" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.21" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/drawable/ic_note_black_24dp.xml" value="0.21" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/drawable/ic_settings_black_24dp.xml" value="0.21" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/drawable/ic_share_black_24dp.xml" value="0.21" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/layout/activity_edite_note.xml" value="0.359375" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/layout/activity_main.xml" value="0.359375" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/layout/content_main.xml" value="0.359375" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/layout/note_layout.xml" value="0.359375" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/menu/edite_note_menu.xml" value="0.359375" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/menu/main_action_mode.xml" value="0.359375" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/menu/menu_main.xml" value="0.359375" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21" />
+        <entry key="..\:/Users/USER/Desktop/SimpleNotepadAndroid-master/SimpleNotepadAndroid-master/Java/Application/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
